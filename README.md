@@ -22,7 +22,7 @@ I’m passionate about turning **data into insights**, building **web & mobile s
 ---
 
 ## 🛠️ Tech Skills
-- Languages: **Python, SQL, Java, Vanilla JavaScript, jQuery, HTML, CSS*  
+- Languages: **Python, SQL, Java, Vanilla JavaScript, jQuery, HTML, CSS** 
 - Data Tools: **Excel (VBA), Power BI**  
 - Dev Tools: **Git, GitHub, Firebase, Jekyll, Markdown**  
 - OS: **MacOS (expert), Windows (expert), Linux (advanced)**  
