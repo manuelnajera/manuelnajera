@@ -36,20 +36,19 @@ I’m passionate about turning **data into insights**, building **web & mobile s
 ---
 
 ## Courses
-**Google Data Analytics Professional Certificate** – Coursera (In Progress)  
-**Cisco Ethical Hacker Certification** – Cisco Networking Academy (In Progress)  
-**The Odin Project** (Frontend completed, backend path in progress: Node.js).  
+- **Google Data Analytics Professional Certificate** – Coursera (In Progress)  
+- **Cisco Ethical Hacker Certification** – Cisco Networking Academy (In Progress)  
+- **The Odin Project** (Frontend completed, backend path in progress: Node.js).  
 ---
 
 ## Goals  
-  Long-term focus: **Ethical Hacking, AI Security, and Secure Software Development**.  
+Long-term focus: **Ethical Hacking, AI Security, and Secure Software Development**.  
 
 ---
 
 ## Let’s Connect  
 - Portfolio: [manuelnajera.github.io](https://manuelnajera.github.io)  
 - LinkedIn: [www.linkedin.com/in/manuel-a-najera](#)  
-- Email: **manuel.najeraa@gmail.com**  
 
 ---
 
